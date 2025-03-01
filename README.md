@@ -38,7 +38,7 @@ This project is a simple PHP-based web application designed for students to ente
 - Modify `style.css` for UI changes if needed.
 
 ## Preview
-![Project Preview](path/to/your/image.png)
+![Project Preview](https://github.com/3boudi/progress-student/blob/main/student%20progrem/assets/image.png?raw=true)
 
 ## Author
 - 3boudi (amin)
